@@ -1,0 +1,13 @@
+profession: 'software-engineer'
+name: 'Кристина Мышкина'
+name-in-cyrillic: 'Кристина Мышкина'
+hardskills: 'Python 3, FastAPI, Django, Django REST Framework, PostgreSQL, Redis, Kafka, RabbitMQ, Docker, Kubernetes, GitLab CI, pytest, REST API, микросервисы, оптимизация запросов, профилирование'
+softskills: 'ответственность, коммуникация, наставничество, командная работа, самостоятельность'
+languages: 'Русский, Английский'
+bio: 'Python backend-разработчик с 9-летним опытом. Проектирую и поддерживаю высоконагруженные API, очереди и платёжные интеграции. Стек: Python 3, FastAPI, Django, PostgreSQL, Kafka, Docker, Kubernetes.'
+experience: 'Ведущий backend-разработчик (Python) в Технопоток, Москва (март 2022 - настоящее время); Backend-разработчик (Python) в Платёжный Дом Вектор, Санкт-Петербург (август 2019 - февраль 2022); Junior/Middle Python-разработчик в СтройДата Софт, Москва (июль 2017 - июль 2019).'
+
+contact:
+  telegram: 'ratito_ratson'
+  email: 'kristina.myshkina.1016.r6@reverse-ats.com'
+  phone: ''
